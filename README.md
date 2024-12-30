@@ -1,7 +1,7 @@
 <div align="left" />
 <img src="archbtw.webp" align="left" width="350" alt="I use Arch btw" />
 
-# Hey there!
+### Hey there!
 
 I'm **taep96**, a **Fullstack Dev / Software Engineer / Designer.**
 
