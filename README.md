@@ -2,6 +2,6 @@
 
 ### `taep96`
 
-TypeScript and Rust dev. Web and systems programming. Shader art and other creative stuff.
+· rust · typescript · shader art ·
 
-· [website](https://taep96.moe/) · [twitter](https://x.com/taep96) · [discord](https://taep96.moe/discord) ·
+· [portfolio](https://taep96.moe/) · [twitter](https://x.com/taep96) · [discord](https://taep96.moe/discord) ·
