@@ -1,7 +1,11 @@
-<img src="archbtw.gif" align="left" />
 
-### `taep96`
 
-I like making things on the internet.
+Hi! I'm tea.
 
-· [website](https://taep96.moe/) · [twitter](https://x.com/taep96) · [discord](https://taep96.moe/discord) ·
+My GitHub is deserted because nothing I make is good enough to be public.
+
+You can contact me at `mail - at - taep96 - dot - moe`
+
+---
+
+<img src="https://media1.tenor.com/m/u55lMMKe4nUAAAAC/hp-hewlett-packard.gif" width="1200px" height="100px" />
